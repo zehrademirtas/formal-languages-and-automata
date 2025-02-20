@@ -18,18 +18,12 @@ This project focuses on **minimizing Deterministic Finite Automata (DFA)** using
 4. **Grammar Generation**: The minimized DFA’s transitions are converted into a formal grammar representation.
 5. **Visualization Output**: The minimized DFA is displayed as a `.png` image.
 
-## **Installation & Setup**
-### **Requirements**
-Ensure you have Python installed along with the necessary dependencies. You can install them using:
-```bash
-pip install -r requirements.txt
-```bash
 
-##**Running the Project**
+## **Running the Project**
 To execute the project, run:
-```bash
+
 python dfa_minimization.py
-```bash
+
 
 This will generate the minimized DFA visualization and formal grammar representation.
 
@@ -38,3 +32,10 @@ This will generate the minimized DFA visualization and formal grammar representa
 - **Minimized DFA Representation**: Shows the optimized DFA after applying Hopcroft's Algorithm.
 - **State Transition Table:**:  Lists the new minimized transitions.
 - **Generated Formal Grammar**: Displays the grammar corresponding to the minimized DFA.
+
+## **Installation & Setup**
+### **Requirements**
+Ensure you have Python installed along with the necessary dependencies. You can install them using:
+```bash
+pip install -r requirements.txt
+
