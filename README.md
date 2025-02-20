@@ -26,9 +26,9 @@ pip install -r requirements.txt
 
 ### **Running the Project** 
 To execute the project, run:
-
-```bash
 python dfa_minimization.py
+```bash
+
 This will generate the minimized DFA visualization and formal grammar representation.
 
 ## **Project Outputs**
