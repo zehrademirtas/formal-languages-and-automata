@@ -23,9 +23,11 @@ This project focuses on **minimizing Deterministic Finite Automata (DFA)** using
 Ensure you have Python installed along with the necessary dependencies. You can install them using:
 ```bash
 pip install -r requirements.txt
+```bash
 
-### **Running the Project** 
+##**Running the Project**
 To execute the project, run:
+```bash
 python dfa_minimization.py
 ```bash
 
